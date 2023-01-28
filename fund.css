@@ -1,6 +1,18 @@
 .con{
-    display: flex;
+    display: flex;position: fixed; background-color:white;
 }
 .con div{
-    border: 1px solid white;padding: 10px;width: 100px;flex: 1;
+    border: 1px solid white;padding: 10px;width: 120px;flex: 1;
+}
+.con a:hover{
+    background-color: yellow;
+}
+.c {
+    display:flex;border: 1px solid white;padding: 10px;justify-content: center;
+}
+.con1{
+    display: flex;justify-content: center;
+}
+.con2{
+    border: 1px solid red;
 }
