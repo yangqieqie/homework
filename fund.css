@@ -1,0 +1,6 @@
+.con{
+    display: flex;
+}
+.con div{
+    border: 1px solid white;padding: 10px;width: 100px;flex: 1;
+}
