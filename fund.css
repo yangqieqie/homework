@@ -1,5 +1,5 @@
 .con{
-    display: flex;position: fixed; background-color:white;
+    display: flex;position: fixed; background-color:white;border: 1px solid black; width: 100%;
 }
 .con div{
     border: 1px solid white;padding: 10px;width: 120px;flex: 1;
