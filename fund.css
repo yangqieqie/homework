@@ -16,3 +16,7 @@
 .con2{
     border: 1px solid red;
 }
+@media screen and (max-width:600px){
+    .con div{border: 1px solid white;padding: 1px;width: 100%;flex: 1;}
+    .con2{width: 100%;}
+}
