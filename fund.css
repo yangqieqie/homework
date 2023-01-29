@@ -11,10 +11,16 @@
     display:flex;border: 1px solid white;padding: 10px;justify-content: center;
 }
 .con1{
-    display: flex;justify-content: center;
+    display: flex; background-color:white;
 }
-.con2{
-    border: 1px solid red;
+.cona{
+    border: 1px solid white;padding: 0px;width: auto;flex: 1;
+}
+.conb{
+    border: 1px solid white;padding: 0px;width: auto;flex: 6;
+}
+.conc{
+    border: 1px solid white;padding: 0px;width: auto;flex: 1;
 }
 @media screen and (max-width:600px){
     .con div{border: 1px solid white;padding: 1px;width: 100%;flex: 1;}
