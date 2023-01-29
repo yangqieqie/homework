@@ -22,6 +22,15 @@
 .conc{
     border: 1px solid white;padding: 0px;width: auto;flex: 1;
 }
+.con2{
+    display: flex; background-color:white;
+}
+.a1{
+    border: 1px solid white;padding: 0px;width: auto;flex: 1;
+}
+.a2{
+    border: 1px solid white;padding: 0px;width: auto;flex: 2;
+}
 @media screen and (max-width:600px){
     .con div{border: 1px solid white;padding: 1px;width: 100%;flex: 1;}
     .con2{width: 100%;}
